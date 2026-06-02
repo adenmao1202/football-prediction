@@ -43,3 +43,5 @@ token.md
 
 # Subprojects with own git
 mix/
+OddsHarvester/
+odds/
